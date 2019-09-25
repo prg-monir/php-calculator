@@ -1,0 +1,15 @@
+{
+    "name": "it/calculator",
+    "authors": [
+        {
+            "name": "monir",
+            "email": "test@google.com"
+        }
+    ],
+    "require": {},
+    
+        "autoload": {
+            "psr-4": {"src\\": "src/"}
+        }
+    
+}
